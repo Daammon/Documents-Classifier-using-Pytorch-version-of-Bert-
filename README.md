@@ -24,5 +24,5 @@ It is the prediction using the test set. The number of paragraphs tested vary de
 
 63% of accuracy testing only 1 paragraph is achieved and 71% testing several paragraphs and doing the average. It is important
 to take into account than only a few pages per book are tested. In some books, only 1 or 2 paragraphs are tested and the 
-books may have 400 pages. Additionally, there are books that are listed in two categories and others that are in a different
+books may have 500 pages. Additionally, there are books that are listed in two categories and others that are in a different
 language.
